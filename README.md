@@ -7,6 +7,7 @@ A sample project that explains GIT,Merging strategies and also how to resolve th
 Local Setup
 
 Pre-Requisites
+'''
 GIT
 Python 
 
