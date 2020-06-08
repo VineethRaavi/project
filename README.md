@@ -7,9 +7,10 @@ A sample project that explains GIT,Merging strategies and also how to resolve th
 Local Setup
 
 Pre-Requisites
-'''
+```bash
 GIT
 Python 
+```
 
 Folder Structure
 helloworld.py: Contains a simple helloworld python script.
