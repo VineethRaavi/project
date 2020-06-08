@@ -10,8 +10,11 @@ Pre-Requisites
 ```bash
 GIT
 Python 
+Merge tool
 ```
 
 Folder Structure
+```bash
 helloworld.py: Contains a simple helloworld python script.
 .gitignore   : Contains the files which should be ignored.
+```
