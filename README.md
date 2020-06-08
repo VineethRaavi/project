@@ -1,4 +1,5 @@
 GIT DEMO
+```
 This repository contains a sample project demonstrating GIT.
 
 Overview
@@ -14,7 +15,7 @@ Merge tool
 ```
 
 Folder Structure
-```bash
+```
 helloworld.py: Contains a simple helloworld python script.
 .gitignore   : Contains the files which should be ignored.
 ```
